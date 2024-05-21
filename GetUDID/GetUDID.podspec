@@ -18,4 +18,5 @@
   spec.source_files  = "GetUDID/**/*.{swift}"
 
   spec.swift_versions = "5.0"
+ # spec.dependency "SomeDependency", "~> 1.0"
 end

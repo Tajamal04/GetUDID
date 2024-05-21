@@ -1,0 +1,6 @@
+framework module GetUDID {
+  umbrella header "GetUDID-umbrella.h"
+
+  export *
+  module * { export * }
+}
